@@ -1,9 +1,9 @@
 ## Hello 👋
 
-Computer Engineer
-currrently learning and making small demos and games in Unity and working on some game ideas.
-I'm interested in education and academia so I'm trying to make an AI tool for that
-I also plan to continue studying and get a masters hopefully soon.
+Computer Engineer  
+\n currrently learning and making small demos and games in Unity and working on some game ideas.  
+I'm interested in education and academia so I'm trying to make an AI tool for that.  
+I also plan to continue studying and get a masters hopefully soon.  
 
 
 <!--
