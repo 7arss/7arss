@@ -2,7 +2,7 @@
 
 Computer Engineer
 - Currently learning and making small demos and games in Unity and working on some game ideas.  
-- I'm interested in education and academia so I'm also working on an AI tool for that.  
+- I'm interested in education and academia so I'm  working on an AI tool for that.  
 - I also plan to continue studying and get a masters hopefully soon.  
 
 
